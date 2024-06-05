@@ -15,7 +15,7 @@
   />
 </picture>
 
-## My name is sam ✋🏻
+## My name is sam 👨🏻‍💻
 
 I am a junior `front end` student 🎓
 
