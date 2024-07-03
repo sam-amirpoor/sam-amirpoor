@@ -17,7 +17,7 @@
 
 ## My name is sam 👨🏻‍💻
 
-I am a junior `front end` student 🎓
+I am a `front end` student 🎓
 
 I coding `HTML`, `CSS` and `JAVASCRIPT`
 <br/>
