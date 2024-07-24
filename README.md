@@ -27,4 +27,4 @@ My target is be to a senior `MERN stack` developer 💪🏻
 
 What's your target ?
 <br />
-tell me: <a href="mailto:AmirpoorDev@gmail.com">AmirpoorDev@gmail.com</a>
+tell me: <a href="mailto:AmirpoorDev@gmail.com">amirpoorDev@gmail.com</a>
