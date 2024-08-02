@@ -17,14 +17,12 @@
 
 ## My name is sam 👨🏻‍💻
 
-I am a `front end` student 🎓
+I am a `JS` developer 🎓
 
-I coding `HTML`, `CSS` and `JAVASCRIPT`
+I coding `HTML`, `CSS`, `JAVASCRIPT` and some `node js`
 <br/>
-And currently I'm learning `JAVASCRIPT` ✌🏻
+And currently I'm learning `JAVASCRIPT` to be a `node js` developer✌🏻
 
-My target is be to a senior `MERN stack` developer 💪🏻
-
-What's your target ?
+What are you learning?
 <br />
 tell me: <a href="mailto:AmirpoorDev@gmail.com">amirpoorDev@gmail.com</a>
