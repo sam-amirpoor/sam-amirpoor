@@ -17,7 +17,7 @@
 
 ## My name is sam 👨🏻‍💻
 
-I am a `JS` developer 🎓
+I am a `JS` developer 
 
 I coding `HTML`, `CSS`, `JAVASCRIPT` and some `node js`
 <br/>
