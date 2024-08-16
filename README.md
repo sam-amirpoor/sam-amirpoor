@@ -17,11 +17,10 @@
 
 ## My name is sam 👨🏻‍💻
 
-I am a `JS` developer 
+I am a `Front end` developer.
 
-I coding `HTML`, `CSS`, `JAVASCRIPT` and some `node js`
+I coding `HTML`, `CSS`, `JAVASCRIPT`.
 <br/>
-And currently I'm learning `JAVASCRIPT` to be a `node js` developer✌🏻
 
 What are you learning?
 <br />
