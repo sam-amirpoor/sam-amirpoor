@@ -19,7 +19,7 @@
 
 I am a `Front end` developer.
 
-I coding `HTML`, `CSS`, `JAVASCRIPT` and I'm currently learning `JS`.
+I coding `HTML`, `CSS`, `JAVASCRIPT` and I'm currently focusing on `JS`.
 <br/>
 
 What are you learning?
