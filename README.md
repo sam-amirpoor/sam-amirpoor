@@ -20,7 +20,6 @@
 <h3>About me:</h3>
 
 - My name is sam amirpoor I'm from karaj and I'm 15 years old
-- I started programming from October 2023
 - I'm `front end` developer
 - I'm learning `node.js` to write the APIs I need in the front end
 - Coding are my hobby
