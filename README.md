@@ -15,13 +15,37 @@
   />
 </picture>
 
-## My name is sam 👨🏻‍💻
+<hr />
 
-I am a `Front end` developer.
+<h3>About me:</h3>
 
-I coding `HTML`, `CSS`, `JAVASCRIPT` and I'm currently focusing on `JS`.
-<br/>
+- My name is sam amirpoor I'm from karaj and I'm 15 years old
+- I started programming from October 2023
+- I'm `front end` developer
+- I'm learning `node.js` to write the APIs I need in the front end
+- Coding are my hobby
 
-What are you learning?
 <br />
-tell me: <a href="mailto:AmirpoorDev@gmail.com">amirpoorDev@gmail.com</a>
+
+<h3>Skills:</h3>
+
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 90%
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 85%
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 90%
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) Learning...
+
+<br />
+
+<h3>Contact me</h3>
+
+- <a href="mailto:amirpoorDev@gmail.com">
+  
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  
+</a>
+
+- <a href="https://t.me/samamirpoor">
+  
+  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+  
+</a>
