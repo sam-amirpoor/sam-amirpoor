@@ -21,7 +21,7 @@
 
 - My name is sam amirpoor I'm from karaj and I'm 15 years old
 - I'm `front end` developer
-- I'm learning `node.js` to write the APIs I need in the front end
+- I'm learning `node.js` to write the APIs I need in the `front end`
 - Coding are my hobby
 
 <br />
