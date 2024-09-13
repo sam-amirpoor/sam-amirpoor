@@ -19,7 +19,9 @@
 
 <h3>About me:</h3>
 
-- My name is sam amirpoor I'm from karaj and I'm 15 years old
+- My name is sam amirpoor
+- I'm from karaj
+- I'm 15 years old
 - I'm `front end` developer
 - Coding are my hobby
 
