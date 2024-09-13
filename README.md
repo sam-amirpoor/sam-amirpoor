@@ -23,7 +23,7 @@
 - I'm from karaj
 - I'm 15 years old
 - I'm `front end` developer
-- Currently I'm focusing on tailwindCSS
+- Currently I'm focusing on `tailwindCSS`
 
 <br />
 
