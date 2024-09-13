@@ -34,6 +34,7 @@
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="35px" height="35px" /> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="35px" height="35px" /> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=24895&format=png&color=000000" width="40px" height="40px" /> &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="35px" height="35px" /> &nbsp;
 </div>
   
 
@@ -41,14 +42,12 @@
 
 <h3>Contact me</h3>
 
-- <a href="mailto:amirpoorDev@gmail.com">
-  
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  
-</a>
-
-- <a href="https://t.me/samamirpoor">
-  
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-  
-</a>
+<div>
+  <a href="mailto:amirpoorDev@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40px" height="40px" />
+  </a>
+  <br />
+  <a href="https://t.me/samamirpoor">
+    <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width="40px" height="40px" />
+  </a>
+</div>
