@@ -20,8 +20,7 @@
 <h3>About me:</h3>
 
 - My name is sam amirpoor
-- I'm from karaj
-- I'm 15 years old
+- I'm 15 years old from karaj
 - I'm `front end` developer
 - Currently I'm focusing on `tailwindCSS`
 
