@@ -22,7 +22,6 @@
 - My name is sam amirpoor
 - I'm 15 years old from karaj
 - I'm `front end` developer
-- Currently I'm focusing on `tailwindCSS`
 
 <br />
 
