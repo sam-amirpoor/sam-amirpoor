@@ -17,32 +17,27 @@
 
 <hr />
 
-<h3>About me:</h3>
+```javascript
+const sam = {
+  name: {
+    first: "sam",
+    last: "amirpoor"
+  },
+  aboutMe: "I'm a front end developer, 15 years old from Karaj",
+  skills: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "npm",
+    "TailwindCss",
+    "vsCode"
+  ],
+  contactMe: {
+    gmail: "amirpoorDev@gmail.com",
+    telegram: "@samamirpoor"
+  }
+}
 
-- My name is sam amirpoor
-- I'm 15 years old from karaj
-- I'm `front end` developer
-
-<br />
-
-<h3>Skills:</h3>
-  
-<div>
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="35px" height="35px" /> &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="35px" height="35px" /> &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="35px" height="35px" /> &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=24895&format=png&color=000000" width="40px" height="40px" /> &nbsp;
-  <img width="35" height="35" src="https://img.icons8.com/color/48/tailwindcss.png" /> &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="35px" height="35px" /> &nbsp;
-</div>
-  
-
-<br />
-
-<h3>Contact me</h3>
-
-<div>
-  <a href="mailto:amirpoorDev@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40px" height="40px" /></a>
-  &nbsp;
-  <a href="https://t.me/samamirpoor"><img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width="40px" height="40px" /></a>
-</div>
+let skills = sam.skills;
+skills.keepLearning()
+```
