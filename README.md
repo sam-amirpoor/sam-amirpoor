@@ -17,27 +17,32 @@
 
 <hr />
 
-```javascript
-const sam = {
-  name: {
-    first: "sam",
-    last: "amirpoor"
-  },
-  aboutMe: "I'm a front end developer, 15 years old from Karaj",
-  skills: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "npm",
-    "TailwindCss",
-    "vsCode"
-  ],
-  contactMe: {
-    gmail: "amirpoorDev@gmail.com",
-    telegram: "@samamirpoor"
-  }
-}
+<h3>About me:</h3>
 
-// Learn more
-sam.keepLearning();
+- My name is `sam amirpoor`
+- I'm a `front end` developer, 15 years old from karaj
+
+```javascript
+const skills = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "npm",
+  "TailwindCss",
+  "vsCode"
+]
+
+// Learn more...
+skills.keepLearning()
 ```
+  
+
+<br />
+
+<h3>Contact me:</h3>
+
+<div>
+  <a href="mailto:amirpoorDev@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40px" height="40px" /></a>
+  &nbsp;
+  <a href="https://t.me/samamirpoor"><img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width="40px" height="40px" /></a>
+</div>
