@@ -38,6 +38,5 @@ const sam = {
   }
 }
 
-let skills = sam.skills;
-skills.keepLearning()
+sam.keepLearning()
 ```
