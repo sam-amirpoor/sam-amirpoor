@@ -38,5 +38,6 @@ const sam = {
   }
 }
 
-sam.keepLearning()
+// Learn more
+sam.keepLearning();
 ```
