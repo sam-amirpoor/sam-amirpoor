@@ -23,17 +23,21 @@
 - I'm a `front end` developer, 15 years old from karaj
 
 ```javascript
-const skills = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "npm",
-  "TailwindCss",
-  "vsCode"
-]
+const sam = {
+    skills: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "npm",
+    "TailwindCss",
+    "vsCode"
+  ]
+}
 
 // Learn more...
-skills.keepLearning()
+while(true) {
+  sam.keepLearning()
+}
 ```
   
 
