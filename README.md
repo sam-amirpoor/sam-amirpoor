@@ -25,12 +25,12 @@
 ```javascript
 const sam = {
     skills: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "npm",
-    "TailwindCss",
-    "vsCode"
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "npm",
+      "TailwindCss",
+      "vsCode"
   ]
 }
 
