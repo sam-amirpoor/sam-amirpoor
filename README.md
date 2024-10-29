@@ -31,7 +31,7 @@ const sam = {
       "npm",
       "TailwindCss",
       "vsCode"
-  ]
+    ]
 }
 
 // Learn more...
