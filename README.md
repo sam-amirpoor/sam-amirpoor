@@ -28,6 +28,7 @@ const sam = {
       "HTML",
       "CSS",
       "JavaScript",
+      "Git (Learning...)",
       "npm",
       "TailwindCss",
       "vsCode"
