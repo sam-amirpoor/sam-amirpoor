@@ -28,9 +28,9 @@ const sam = {
       "HTML",
       "CSS",
       "JavaScript",
-      "Git (Learning...)",
       "npm",
       "TailwindCss",
+      "Git (Learning...)",
       "vsCode"
     ]
 }
