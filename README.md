@@ -15,7 +15,7 @@
   />
 </picture>
 
-<hr />
+---
 
 ### About me:
 
