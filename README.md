@@ -17,7 +17,7 @@
 
 <hr />
 
-<h3>About me:</h3>
+### About me:
 
 <div>
   
@@ -29,7 +29,7 @@
 
 <br />
 
-<h3>Skills:</h3>
+### Skills:
 
 <div>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" alt="HTML" />
@@ -42,7 +42,7 @@
 
 <br />
 
-<h3>Contact me:</h3>
+### Contact me:
 
 <div>
   <a href="mailto:amirpoorDev@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40px" height="40px" /></a>
