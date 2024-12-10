@@ -23,7 +23,7 @@
   
   - My name is `sam amirpoor`
   - I'm a `front end` developer, 15 years old from karaj
-  - My hobbies include browsing `programming groups` on Telegram, learning more advanced topics in `JavaScript` and more.
+  - My hobbies include learn about `Linux`, learning more advanced topics in `JavaScript` and more.
     
 </div>
 
@@ -54,4 +54,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-amirpoor&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-amirpoor&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amirpoorDev)](https://github.com/anuraghazra/github-readme-stats)
