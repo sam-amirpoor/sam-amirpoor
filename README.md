@@ -27,7 +27,7 @@
     
 </div>
 
-<br />
+---
 
 ### Skills:
 
@@ -40,7 +40,7 @@
   <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="50" alt="vsCode" />
 </div>
 
-<br />
+---
 
 ### Contact me:
 
@@ -49,3 +49,9 @@
   &nbsp;
   <a href="https://t.me/samamirpoor"><img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width="40px" height="40px" /></a>
 </div>
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-amirpoor&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-amirpoor&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
