@@ -23,7 +23,6 @@
   
   - My name is `sam amirpoor`
   - I'm a `front end` developer, 15 years old from karaj
-  - My hobbies include learn about `Linux`, learning more advanced topics in `JavaScript` and more.
     
 </div>
 
