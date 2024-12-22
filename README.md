@@ -23,6 +23,7 @@
   
   - My name is `sam amirpoor`
   - I'm a `front end` developer, 15 years old from karaj
+  - I'm learning `react.js`
     
 </div>
 
