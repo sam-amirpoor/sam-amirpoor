@@ -35,8 +35,9 @@
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" alt="HTML" />
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" alt="CSS" />
   <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="50" alt="JS" />
-  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="50" alt="TailwindCss" />
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="50" alt="Git" />
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="50" alt="TailwindCss" />
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="react.js"/>
   <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="50" alt="vsCode" />
 </div>
 
