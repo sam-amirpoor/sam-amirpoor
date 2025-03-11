@@ -4,7 +4,9 @@
   </a>
   </div>
 
-  <br/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sam-amirpoor&color=blue&style=flat-square)
 
 - ### 🛠️ Tech Arsenal
 <div>
