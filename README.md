@@ -26,7 +26,7 @@
 
 <hr />
 
-- ### ⏳ Weekly Coding Time
+- ### ⏳ Wakatime stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amirpoorDev)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
