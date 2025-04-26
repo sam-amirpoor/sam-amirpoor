@@ -10,7 +10,7 @@
 
 - ### 🛠️ Tech Arsenal
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,tailwind,react" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,tailwind,react,ts" alt="Tech Stack" />
 </div>
 
 <hr />
