@@ -16,7 +16,10 @@
 <hr />
 
 - ### 🌱 Currently Growing
-<img src="https://img.shields.io/badge/-React%20Mastery-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="Learning React" />
+<div>
+  <img src="https://skillicons.dev/icons?i=next" alt="Next learning" />
+  Next mastery
+</div>
 
 <hr />
 
