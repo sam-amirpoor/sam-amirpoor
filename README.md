@@ -10,15 +10,7 @@
 
 - ### 🛠️ Tech Arsenal
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,tailwind,react,redux,ts" alt="Tech Stack" />
-</div>
-
-<hr />
-
-- ### 🌱 Currently Growing
-<div>
-  <img src="https://skillicons.dev/icons?i=next" alt="Next learning" />
-  Next mastery
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,tailwind,react,redux,ts,next" alt="Tech Stack" />
 </div>
 
 <hr />
