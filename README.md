@@ -23,8 +23,6 @@
 
 - ### ⏳ Wakatime stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amirpoorDev&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 <hr />
 
 - ### 🧨 Github stats
