@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/sam-amirpoor">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=4000&pause=1000&color=38F7A7&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%8C%8E;I'm+Sam+Amirpoor;Passionate+JavaScript+Developer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=4000&pause=1000&color=fabd2f&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%8C%8E;I'm+Sam+Amirpoor;Passionate+JavaScript+Developer" alt="Typing Animation" />
   </a>
   </div>
 
@@ -22,12 +22,13 @@
 <hr />
 
 - ### ⏳ Wakatime stats
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amirpoorDev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amirpoorDev&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 <hr />
 
 - ### 🧨 Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-amirpoor&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-amirpoor&show_icons=true&theme=gruvbox)
 
 <hr/>
 
