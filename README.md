@@ -8,9 +8,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sam-amirpoor&color=blue&style=flat-square)
 
-- ### 🛠️ Tech Arsenal
+- ### 🛠️ Skills and tools
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,tailwind,react,redux,ts,next" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,tailwind,react,redux,ts,next,vim" alt="Tech Stack" />
 </div>
 
 <hr />
