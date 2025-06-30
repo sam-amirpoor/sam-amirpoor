@@ -6,7 +6,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sam-amirpoor&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=sam-amirpoor&color=c68f0f&style=flat-square)
 
 - ### 🛠️ Skills and tools
 <div>
