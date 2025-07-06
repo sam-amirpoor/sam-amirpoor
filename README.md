@@ -16,8 +16,8 @@
 <hr />
 
 - ### 📬 Let's Connect
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/samamirpoor)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:amirpoorDev@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-c68f0f?logo=telegram&logoColor=white)](https://t.me/samamirpoor)
+[![Email](https://img.shields.io/badge/-Email-c68f0f?logo=gmail&logoColor=white)](mailto:amirpoorDev@gmail.com)
 
 <hr />
 
