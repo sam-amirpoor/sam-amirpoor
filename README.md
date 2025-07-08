@@ -9,25 +9,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sam-amirpoor&color=c68f0f&style=flat-square)
 
 - ### 🛠️ Skills
-
+<pre>
 Languages
-<div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS" />
-</div>
-
-<br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS" />
 
 Libraries and Frameworks
-<div>
   <img src="https://skillicons.dev/icons?i=tailwind,react,redux,next" alt="Tailwindcss, React.js, Redux, Next.js" />
-</div>
-
-<br />
 
 Tools
-<div>
   <img src="https://skillicons.dev/icons?i=git,github,vim" alt="Git, Github, Vim" />
-</div>
+</pre>
 
 <hr />
 
