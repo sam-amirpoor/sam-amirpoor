@@ -17,7 +17,7 @@ Libraries and Frameworks
   <img src="https://skillicons.dev/icons?i=tailwind,react,redux,next" alt="Tailwindcss, React.js, Redux, Next.js" />
 
 Tools
-  <img src="https://skillicons.dev/icons?i=git,github,vim" alt="Git, Github, Vim" />
+  <img src="https://skillicons.dev/icons?i=git,github,vim" alt="Git, Github" />
 </pre>
 
 <hr />
