@@ -11,12 +11,13 @@
 - ### 🛠️ Skills
     
     <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS" />
-    
-    <img src="https://skillicons.dev/icons?i=git,github" alt="Git, Github" />
-    
-    <img src="https://skillicons.dev/icons?i=tailwind,react,redux,next,express,sequelize,mysql" alt="Tailwindcss, React.js, Redux, Next.js, Express.js, Sequelize, mySQL" />
-    
-    <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=git,github,jest" alt="Git, Github, Jest" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,redux,next" alt="Tailwindcss, React.js, Redux, Next.js" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=express,mysql,sequelize" alt="Express.js, mySQL, Sequelize" />
+    <br />
 
 <hr />
 
