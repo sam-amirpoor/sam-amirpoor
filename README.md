@@ -16,7 +16,7 @@
     <br />
     <img src="https://skillicons.dev/icons?i=tailwind,react,redux,next" alt="Tailwindcss, React.js, Redux, Next.js" />
     <br />
-    <img src="https://skillicons.dev/icons?i=express,mysql,sequelize" alt="Express.js, mySQL, Sequelize" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize" alt="Node.js, Express.js, mySQL, Sequelize" />
     <br />
 
 <hr />
