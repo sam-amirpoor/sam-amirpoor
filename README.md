@@ -12,7 +12,7 @@
     
     <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS" />
     <br />
-    <img src="https://skillicons.dev/icons?i=git,github,jest" alt="Git, Github, Jest" />
+    <img src="https://skillicons.dev/icons?i=git,github,jest,linux" alt="Git, Github, Jest, Linux" />
     <br />
     <img src="https://skillicons.dev/icons?i=tailwind,react,redux,next" alt="Tailwindcss, React.js, Redux, Next.js" />
     <br />
