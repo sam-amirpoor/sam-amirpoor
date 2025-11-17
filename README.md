@@ -11,7 +11,7 @@
 ___
 
 ### 👋 Hey there! I'm Sam Amirpoor
-16-year-old front-end enthusiast from `Karaj, Iran` Passionate about building fast, beautiful, and user-friendly web experiences.
+16 years old front-end enthusiast from `Karaj, Iran` Passionate about building fast, beautiful, and user-friendly web experiences.
 
 🔧 **Currently working with**  
 `React.js` • `Next.js` • `TypeScript` • `Tailwind CSS` • modern frontend tooling
