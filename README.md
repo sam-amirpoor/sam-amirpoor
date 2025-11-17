@@ -8,16 +8,30 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sam-amirpoor&color=c68f0f&style=flat-square)
 
+___
+
+### 👋 Hey there! I'm Sam Amirpoor
+16-year-old front-end enthusiast from `Karaj, Iran` Passionate about building fast, beautiful, and user-friendly web experiences.
+
+🔧 **Currently working with**  
+`React.js` • `Next.js` • `TypeScript` • `Tailwind CSS` • modern frontend tooling
+
+🧠 **Learning & exploring**  
+Machine Learning (just started and already in love with it 🤖)  
+Linux & open-source philosophy (Arch user btw 🐧)
+
+❤️ **What drives me**  
+Clean code, pixel-perfect UI, performance optimization, and contributing to projects that make the web better for everyone.
+
+___
+
 - ### 🛠️ Skills
     
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github" alt="HTML, CSS, JS, TS, Git, Github" />
     <br />
-    <img src="https://skillicons.dev/icons?i=git,github,jest,linux" alt="Git, Github, Jest, Linux" />
+    <img src="https://skillicons.dev/icons?i=jest,linux,tailwind,react,redux,next" alt="Jest, Linux, Tailwindcss, React.js, Redux, Next.js" />
     <br />
-    <img src="https://skillicons.dev/icons?i=tailwind,react,redux,next" alt="Tailwindcss, React.js, Redux, Next.js" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize" alt="Node.js, Express.js, mySQL, Sequelize" />
-    <br />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize,python" alt="Node.js, Express.js, mySQL, Sequelize, Python" />
 
 <hr />
 
