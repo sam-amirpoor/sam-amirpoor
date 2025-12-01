@@ -14,7 +14,7 @@ ___
 16 years old front-end enthusiast from `Karaj, Iran` Passionate about building fast, beautiful, and user-friendly web experiences.
 
 🔧 **Currently working with**  
-`React.js` • `Next.js` • `TypeScript` • `Tailwind CSS` • modern frontend tooling
+`React.js` • `Next.js` • `TypeScript` • `TailwindCSS` • modern frontend tooling
 
 🧠 **Learning & exploring**  
 Machine Learning (just started and already in love with it 🤖)  
