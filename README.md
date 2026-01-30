@@ -17,7 +17,7 @@ ___
 `React.js` • `Next.js` • `TypeScript` • `TailwindCSS` • modern frontend tooling
 
 🧠 **Learning & exploring**  
-Machine Learning (just started and already in love with it 🤖)  
+Nest.js (just started and already in love with it)  
 Linux & open-source philosophy (Arch user btw 🐧)
 
 ❤️ **What drives me**  
