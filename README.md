@@ -16,10 +16,6 @@ ___
 🔧 **Currently working with**  
 `React.js` • `Next.js` • `TypeScript` • `TailwindCSS` • modern frontend tooling
 
-🧠 **Learning & exploring**  
-Nest.js (just started and already in love with it)  
-Linux & open-source philosophy (Arch user btw 🐧)
-
 ❤️ **What drives me**  
 Clean code, pixel-perfect UI, performance optimization, and contributing to projects that make the web better for everyone.
 
