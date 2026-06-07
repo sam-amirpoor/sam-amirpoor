@@ -30,7 +30,9 @@ ___
     <br />
     <img src="https://skillicons.dev/icons?i=jest,linux,tailwind,react,redux,next" alt="Jest, Linux, Tailwindcss, React.js, Redux, Next.js" />
     <br />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize,python" alt="Node.js, Express.js, mySQL, Sequelize, Python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize,python,figma" alt="Node.js, Express.js, mySQL, Sequelize, Python, figma" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=xd" alt="Xd" />
 
 <hr />
 
