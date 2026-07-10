@@ -1,56 +1,125 @@
 <div align="center">
-  <a href="https://github.com/sam-amirpoor">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=4000&pause=1000&color=fabd2f&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%8C%8E;I'm+Sam+Amirpoor;Passionate+JavaScript+Developer" alt="Typing Animation" />
-  </a>
-  </div>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=FABD2F&center=true&vCenter=true&width=600&lines=Sam+Amirpoor;Full-Stack+Developer;React+%7C+Next.js+%7C+NestJS;Building+Modern+Web+Applications" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sam-amirpoor&color=c68f0f&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=sam-amirpoor&style=flat-square&color=c68f0f"/>
 
-___
+</div>
 
-### 👋 Hey there! I'm Sam Amirpoor
-17 years old front-end enthusiast from `Karaj, Iran` Passionate about building fast, beautiful, and user-friendly web experiences.
+---
 
-🔧 **Currently working with**  
-`React.js` • `Next.js` • `TypeScript` • `TailwindCSS` • modern frontend tooling
+# 👋 Hey, I'm Sam
 
-🧠 **Learning & exploring**  
-Nest.js (just started and already in love with it) 
+I'm a **Full-Stack Developer** passionate about creating modern, scalable and user-focused web applications.
 
-❤️ **What drives me**  
-Clean code, pixel-perfect UI, performance optimization, and contributing to projects that make the web better for everyone.
+I enjoy turning ideas into real products by combining clean architecture, beautiful interfaces and reliable backend systems.
 
-___
+Currently, my main focus is **learning Software Engineering principles** beyond just frameworks.
 
-- ### 🛠️ Skills
-    
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github" alt="HTML, CSS, JS, TS, Git, Github" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=jest,linux,tailwind,react,redux,next" alt="Jest, Linux, Tailwindcss, React.js, Redux, Next.js" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize,python,figma" alt="Node.js, Express.js, mySQL, Sequelize, Python, figma" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=xd" alt="Xd" />
+I'm diving deeper into:
 
-<hr />
+- 🏗️ Software Architecture
+- ⚙️ Backend Engineering
+- 📚 System Design
+- 🧩 Design Patterns
+- 🚀 Scalable Applications
 
-- ### 📬 Let's Connect
-[![Telegram](https://img.shields.io/badge/-Telegram-c68f0f?logo=telegram&logoColor=white)](https://t.me/samamirpoor)
-[![Email](https://img.shields.io/badge/-Email-c68f0f?logo=gmail&logoColor=white)](mailto:amirpoorDev@gmail.com)
+because I believe great software is built by great engineers—not just great programmers.
 
-<hr />
+---
+
+## 🚀 Current Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=jest,linux,tailwind,react,redux,next" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,sequelize,python" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=figma,xd,docker,redis" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Software Engineering
+- System Design
+- Clean Architecture
+- NestJS
+- PostgreSQL
+- Docker
+- Redis
+
+---
+
+## 🔥 Featured Projects
+
+### ⚡ PulseWatch
+
+A modern uptime monitoring platform built with:
+
+- Next.js
+- NestJS
+- PostgreSQL
+- Redis
+- Docker
+
+---
+
+### 🚀 ZED Studio
+
+A software development studio focused on:
+
+- SaaS Products
+- Web Applications
+- UI Engineering
+- Developer Experience
+
+---
+
+## 📈 GitHub Stats
 
 - ### ⏳ Wakatime stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amirpoorDev&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-<hr />
-
 - ### 🧨 Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-amirpoor&show_icons=true&theme=gruvbox)
 
-<hr/>
+<br/>
 
-<div align="center" style="max-width: 600px">
-  <em>"You are the creator of the code you write, so enjoy creating!"</em> 🔥
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sam-amirpoor&theme=gruvbox&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Connect with me
+
+<a href="https://t.me/samamirpoor">
+    <img src="https://img.shields.io/badge/Telegram-c68f0f?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:amirpoordev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-c68f0f?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+<div align="center">
+
+> **"Build products. Solve problems. Keep learning."** 🚀
+
 </div>
