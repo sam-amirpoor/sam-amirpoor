@@ -42,11 +42,11 @@ because I believe great software is built by great engineers—not just great pr
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,sequelize,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,sequelize" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=figma,xd,docker,redis" />
+<img src="https://skillicons.dev/icons?i=python,figma,xd,docker,redis" />
 
 </div>
 
