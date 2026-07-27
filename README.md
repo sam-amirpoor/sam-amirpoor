@@ -89,23 +89,6 @@ A software development studio focused on:
 
 ---
 
-## 📈 GitHub Stats
-
-- ### ⏳ Wakatime stats
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amirpoorDev&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-- ### 🧨 Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-amirpoor&show_icons=true&theme=gruvbox)
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sam-amirpoor&theme=gruvbox&hide_border=true"/>
-
-</div>
-
----
-
 ## 📫 Connect with me
 
 <a href="https://t.me/samamirpoor">
