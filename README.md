@@ -59,7 +59,6 @@ because I believe great software is built by great engineers—not just great pr
 - Clean Architecture
 - NestJS
 - PostgreSQL
-- Docker
 - Redis
 
 ---
