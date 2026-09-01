@@ -46,7 +46,7 @@ because I believe great software is built by great engineers—not just great pr
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,figma,xd,docker,redis" />
+<img src="https://skillicons.dev/icons?i=python,figma,xd,docker" />
 
 </div>
 
