@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=FABD2F&center=true&vCenter=true&width=600&lines=Sam+Amirpoor;Full-Stack+Developer;React+%7C+Next.js+%7C+NestJS;Building+Modern+Web+Applications" />
 
-<br/>
+<!-- <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sam-amirpoor&style=flat-square&color=c68f0f"/>
+<img src="https://komarev.com/ghpvc/?username=sam-amirpoor&style=flat-square&color=c68f0f"/> -->
 
 </div>
 
